@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{bYXs:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),s=n("Bl7J"),u=n("vrFN");t.default=function(){return l.a.createElement(s.a,null,l.a.createElement(u.a,{title:"Knit"}),l.a.createElement("h1",null,"NOT FOUND"),l.a.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
-//# sourceMappingURL=component---src-pages-knit-js-0d584b742f6f61993bed.js.map
