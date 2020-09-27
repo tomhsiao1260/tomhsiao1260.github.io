@@ -26,7 +26,6 @@ export default ({ data }) => (
         </p>
         <p>In addition, the sketch 《Most beautiful equation in math》 has been invited and published in 《Science Monthly》 in Taiwan. In the future, he hopes to use what he has learned to merge the science and technology into art, our society, and daily life.
         </p>
-        <p>Email: tomtogo1260@gmail.com</p>
       </div>
       <div className={styles.image}>
         <Img fluid={data.file.childImageSharp.fluid}/>
