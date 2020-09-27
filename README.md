@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-    This is my personal website built by Gatsby based on React. &nbsp;
-    <a href="https://tomhsiao1260.github.io/" target="_blank">view<a/>
+    This is my personal website built by Gatsby based on React.&nbsp;
+    <a href="https://tomhsiao1260.github.io/" target="_blank">View It<a/>
 </h3>
 
