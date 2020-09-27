@@ -1,0 +1,38 @@
+.main_h {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 650px; 
+}
+@media only screen and (max-width: 766px) {
+    .main_h {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 1000px; 
+    }
+}
+
+.main_h p{
+    text-align: justify;
+}
+
+.content {
+    width: 60%;
+}
+@media only screen and (max-width: 766px) {
+    .content {
+    width: 100%;
+    }
+}
+
+.image {
+    margin: 50px 30px 0 50px;
+    width: 30%;
+}
+@media only screen and (max-width: 766px) {
+    .image {
+    margin: 20px 10px 0 0px;
+    width: 225px;
+    }
+}

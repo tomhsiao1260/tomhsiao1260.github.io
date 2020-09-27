@@ -1,0 +1,66 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.step {
+    font-size: 50px;
+    margin-bottom: 50px;
+    color: rgb(68, 75, 69);
+}
+@media only screen and (max-width: 766px) {
+    .step {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+}
+
+.now {
+    font-size: 70px;
+    color: rgb(0, 102, 218);
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+@media only screen and (max-width: 766px) {
+    .now {
+        font-size: 40px;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+}
+
+.next {
+    font-size: 30px;
+    color: rgb(5, 136, 136);
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+@media only screen and (max-width: 766px) {
+    .next {
+        font-size: 25px;
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+}
+
+.container button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+}
+@media only screen and (max-width: 766px) {
+    .container button {
+        padding: 8px 28px;
+        font-size: 25px;
+    }
+}
+
+.container button:hover{
+    color: rgb(255, 255, 143);
+}

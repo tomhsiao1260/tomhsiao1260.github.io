@@ -1,0 +1,50 @@
+.title{
+    text-align: center;
+}
+
+.content {
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.film {
+    position:relative;
+    padding-top:56.25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.description{
+    text-align: center;
+    color: rgb(124, 124, 133);
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.container {
+    display: flex;
+}
+@media only screen and (max-width: 766px) {
+    .container {
+        margin-top: 30px;
+        flex-direction: column;
+        width: 100%;
+    }
+}
+
+.img {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+@media only screen and (max-width: 766px) {
+    .img {
+        margin-top: 5px;
+        margin-bottom: 10px;
+        width: 80%;
+    }
+}
