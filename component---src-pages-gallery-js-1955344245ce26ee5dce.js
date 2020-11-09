@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{yp8A:function(e,a,n){"use strict";n.r(a),n.d(a,"query",(function(){return i}));var t=n("q1tI"),r=n.n(t),l=n("Bl7J"),c=n("9eSz"),u=n.n(c);a.default=function(e){var a=e.data;return r.a.createElement(l.a,null,r.a.createElement("h1",null,"Gallery"),r.a.createElement("div",{className:"gallery"},a.images.edges.map((function(e){return r.a.createElement(u.a,{fixed:e.node.childImageSharp.fixed})}))))};var i="3249324061"}}]);
-//# sourceMappingURL=component---src-pages-gallery-js-1955344245ce26ee5dce.js.map
